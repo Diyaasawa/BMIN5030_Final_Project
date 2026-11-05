@@ -14,13 +14,13 @@ Use this template to complete your project throughout the course. Your Final Pro
 
 ## Overview {#sec-overview}
 
-Give a brief a description of your project and its goal(s), what data you are using to complete it, and what two faculty/staff in different fields you have spoken to about your project with a brief summary of what you learned from each person. Include a link to your final project GitHub repository.
+This project examines how income, race/ethnicity, and age are associated with breast cancer screening among women aged 40 and older in the United States. Using data from the Behavioral Risk Factor Surveillance System (BRFSS), the goal is to identify differences in mammography screening rates across demographic and socioeconomic groups and better understand potential disparities in preventive healthcare access
 
 ## Introduction {#sec-introduction}
 
-Describe the problem addressed, its significance, and some background to motivate the problem. This should extend what is in the @sec-overview.
+Breast cancer is one of the most common cancers affecting women in the United States and this means that early detection is an important part of improving breast cancer rates. Mammography is widely used to screen for breast cancer and can help detect abnormalities before symptoms develop. However, not all women have equal access to screening services. Factors such as income, race/ethnicity, and age may influence whether someone receives recommended screening, potentially contributing to differences in early detection and health outcomes. Understanding these relationships can help identify populations that may face barriers to preventive care.
 
-Explain why your problem is interdisciplinary, what fields can contribute to its understanding, and incorporate background related to what you learned from meeting with faculty/staff.
+Breast cancer screening disparities are an interdisciplinary issue involving public health, medicine, epidemiology, and data science. Socioeconomic factors, including income and access to healthcare resources, may also influence screening participation. Through discussions with staff, I also gained a better understanding of the importance of early detection in breast cancer and how timely screening can influence patient outcomes. This further emphasized the importance of examining differences in mammography screening across demographic and socioeconomic groups. By combining these perspectives, this project aims to better understand how demographic and socioeconomic characteristics are associated with mammography screening. (will add more about what I learned in detail)
 
 ## Methods {#sec-methods}
 
